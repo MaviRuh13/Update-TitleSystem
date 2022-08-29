@@ -1,0 +1,18 @@
+------------------------------------ TR
+// Arat
+TITLE_INDEX_0	Devredışı
+TITLE_0	Devredışı
+
+// Değiştir
+TITLE_INDEX_0	[Sera2 Oyuncusu]
+TITLE_0	[Sera2 Oyuncusu]
+
+------------------------------------ EN
+// Search
+TITLE_INDEX_0	Disable
+TITLE_0	Disable
+
+// Change
+TITLE_INDEX_0	[Sera2 Player]
+TITLE_0	[Sera2 Player]
+
